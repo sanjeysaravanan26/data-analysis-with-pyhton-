@@ -73,35 +73,6 @@ student_performance_project/
 └── outputs/
 ```
 
----
-
- Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/your-username/student-performance-analysis.git
-```
-
-Move into the project folder
-
-```bash
-cd student-performance-analysis
-```
-
-Install the required libraries
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the project
-
-```bash
-python student_performance_analysis.py
-```
-
----
 
  Key Insights
 
@@ -110,17 +81,6 @@ python student_performance_analysis.py
 - Students who study more tend to score slightly better.
 - Female students achieved a slightly higher average final grade than male students.
 - Most students scored between **8 and 14 marks**.
-
----
-
- Dashboard
-
-After running the project, the generated dashboard looks like this.
-
-> Add your dashboard image to the repository (for example, `dashboard.png`) and display it using:
-
-markdown
-![Student Performance Dashboard](dashboard.png)
 
 
  Internship Details
