@@ -70,8 +70,7 @@ student_performance_project/
 ├── student-mat.csv
 ├── requirements.txt
 ├── README.md
-└── outputs/
-```
+└── outputs
 
 
  Key Insights
